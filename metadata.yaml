@@ -12,6 +12,9 @@ contributor:
     deathdate: 1921
     gutenberg_agent_id: '736'
     url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: archival
+  image_path: 55591-h/images/cover.jpg
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55591#Old-Fashioned-Flowers-and-other-out-of-door-studies
 gutenberg_issued: '2017-09-21'
 gutenberg_type: Text
 identifiers:
